@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 title: BreatheToo Legal
+plugins:
+  - jekyll-redirect-from
